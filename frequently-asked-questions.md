@@ -1,34 +1,190 @@
 # Frequently Asked Questions
 
-### **Card** <a href="#infini-card" id="infini-card"></a>
+## Infini 社区常见问题
 
-1. **What type of card is the Infini Card?**
+### **Infini Card** <a href="#infini-card" id="infini-card"></a>
 
-Currently, the cards launched by Infini are MasterCard/Visa debit cards issued in the United States. At present, they are virtual cards that can be added to payment tools such as PayPal. The Tech Card (Rabbit Card) can be used for subscriptions to AI tools with stricter card requirements, and the Global Card (Woof Card) will support physical card applications in the future.
+1. **Infini Card 是什么类型的卡?**
 
-1. **About Apple Pay and Physical Cards**
+目前Infini推出的卡片是在美国发行的 MasterCard/Visa 借记卡，目前为虚拟卡，可添加至微信/支付宝/Paypal等第三方支付工具使用，Tech Card （Rabbit）可以用于对卡要求较严格的AI工具订阅等，Global Card（Woof ）将可在未来申请实体卡。
 
-Infini Global Card (Woof Card) supports Apple Pay and Google Pay. Currently, it is a virtual card, but in the future, a physical card will be available. Please follow our official Twitter and community for the latest updates on Global Card.
+1. **关于Apple pay 和实体卡**
 
-1. **What are the fee rates for the Infini?**
+Infini Global Card（Woof） 支持 Apple Pay 与 Google Pay，目前为虚拟卡，在未来可申请实体卡，请关注我们的官方推特和社区，以在第一时间获取 Global Card 的更多消息。
 
-About Infini's fee rates, currently, when depositing stablecoins (USDT/USDC) into Infini, there is a 0 conversion fee to USD. When making card payments:
+1. **Infini 的费率是多少？**
 
-* **Commission Fee**:
-  * 0.10% per transaction
-* **Cross-border Fees** (for non-USD payments, minimum $0.01):
-  * **Lite Card (Meow)**: 1-1.5%
-  * **Tech Card (Rabbit)**: 1% + $0.50 (for payments at non-USD/non-US merchants)
-  * **Global Card (Woof)**: 1% (for payments at non-USD/non-US merchants)
-* **Apple Pay / Google Pay fee:**
-  * Global Card: 0.20% per transaction
-* When using the Infini card for payment, please avoid transactions that deplete your entire balance, as this may result in insufficient funds to cover the commission fee and any potential currency exchange fees, leading to transaction failures due to insufficient balance.
-* When depositing and withdrawing, users need to pay the corresponding network fees (Gas fees) based on the network they choose. Besides that, Infini does not charge any fees for deposits or withdrawals.
+关于 Infini 的费率，目前在Infini存入稳定币，USDT/USDC 至 USD 为 0 转换费，在刷卡消费时：
 
-1. **What is the exchange rate for the Infini Card?**
+* **支付手续费：**
+  * 每笔交易的 0.10%
+* **换汇手续费**（在进行非美元支付时收取，最低 0.01 美元）
+  * Lite Card: 1-1.5%
+  * Tech Card: 1% + 0.50 美元（在非美元/非美国商户支付时）
+  * Global Card: 1%（在非美元/非美国商户支付时）
+* **Apple pay / Google Pay 手续费:**
+  * Global Card: 每笔交易的 0.20%
+* 存款与提款时，根据用户所选择的网络不同，需要支付相应的网络费 (Gas fee)，除此之外Infini不对存取款收取任何手续费。
+* 在使用 Infini 卡进行支付时，请避免进行耗尽全部余额的交易，因为这将导致您的余额不足以支付commission fee 与可能产生的换汇手续费，并造成因余额不足的交易失败。
+* 微信支付/支付宝对所有境外卡超过200人民币的消费，收取额外3%手续费，该手续费不是 Infini 收取。
 
-Infini Card's exchange rate is based on real-time international bank exchange rates, which are quite close to the rates found on Google. If the amount you are paying is very small (under $0.5), it may trigger the minimum foreign exchange fee, so please try to avoid making very small transactions. Additionally, if you are using the Rabbit Card, there will be an extra $0.50 currency conversion fee when paying non-U.S. merchants. We recommend using the Lite Card or Global Card for daily expenses and the Rabbit Card for payments to services like X or ChatGPT.
+1. **Infini 卡的外汇汇率是多少？**
 
-1. **Is KYC required for the Infini Card?**
+Infini 卡的汇率为国际银行实时兑换汇率，与 Google 查询到的汇率较为接近。如果您支付的金额非常小（例如 1-4 元人民币），可能会触发最低外汇手续费，故请尽量避免进行非常小额的交易。此外，如果您使用的是 Tech Card，在向非美国商家付款时会产生额外 0.5美元的货币兑换费。我们建议使用 Lite Card 或 Global Card 进行日常支出，使用 Tech Card 进行 X 或 ChatGPT 等付款。
 
-When applying for the Infini Card, users can first fill in basic information (name and phone number) to submit their application. In this case, the user's Infini Card will have a total spending limit of $500. Users can unlock this limit by completing KYC verification to obtain an Infini Card with no payment limit.
+1. **Infini Card 是否必须KYC？**
+
+用户在申请 Infini Card 时，可以先填写基础信息（姓名与电话号码），进行 Infini Card 的申请，这种情况下用户的 Infini Card 将有 $500 的总消费限额。用户可以通过进一步进行 KYC 认证解锁该限制，以获得无支付额度限制的 Infini Card。
+
+* 请在无KYC申请卡时务必填写真实姓名和电话，以免影响您的未来用卡。
+* Infini Card 在 KYC 后无消费限额，但第三方支付工具（如微信，支付宝等）可能会对该卡或您的账户设定日/年总支付限额。
+* 根据合规要求，Infini 目前无法为 IP 地址来自香港/美国和受制裁地区的用户提供服务。部分来自受限制地区的用户需同意 Infini 的相关条款，并主动声明其不是来自受限制国家/地区的长期居住居民，之后可申请 Infini 卡，但 Infini 保留要求其提供有效住址证明与终止其访问的权利。
+
+1. **用卡风险提示**
+
+* Infini Card 不具备透支功能，请在消费时首先确保您的Infini账户中有足够的余额。
+* 请避免频繁的退款、消费失败、取消支付等操作。
+* 如果退款与消费失败率高于20%，则您的卡有可能被冻结并删除。为防止恶意退款行为，将对主动退款行为收取 2% 的手续费，请避免频繁的退款操作。
+* 如果您的卡被冻结删除，请联系 Infini 客户服务重置您账户中的卡状态，并需要重新申请卡。
+* Inifni 不支持法币存入或转账（例如从银行/微信或支付宝充值），也无法使用法币充值/存款，只支持向商户进行支付。
+* 在使用 Infini 卡进行消费时，请确保您的 Infini 账户余额大于需要支付的金额 3% 以上，因每次支付所需的金额为：总金额=支付金额+手续费，其中手续费包含 commission fee，和向非美元商户支付时所收取的换汇手续费。如果您的余额不足以支付，将导致支付失败。
+
+### 使用问题 <a href="#shi-yong-wen-ti" id="shi-yong-wen-ti"></a>
+
+1. **Infini 有手机 App 吗？**
+
+目前 Infini 暂时没有手机App，也无法从苹果与谷歌商店下载App。可以使用PWA版本手机App，添加到手机主屏幕使用。可以参考[此教程](https://infini-money.gitbook.io/infini/product/infini-card/infini-card-tutorial/add-the-infini-pwa-app-to-your-mobile-home-screen)
+
+1. **微信，支付宝相关问题**
+
+_**额外手续费**_
+
+目前单笔超过 200 RMB的消费，微信/支付宝目前会对境外银行卡收取3%的附加手续费，这个费用是微信/支付宝收取的，请在支付时注意微信/支付宝的提示，以免损失手续费。
+
+_**支付宝锁卡**_
+
+由于支付宝风控的原因，近期支付宝会出现锁定境外卡的情况，请大家在申请卡时使用与自己支付宝一致的持卡人姓名，并在遇到支付宝锁卡时按照[此教程](https://infini-money.gitbook.io/infini/product/infini-card/infini-card-tutorial/adding-your-infini-card-to-alipay/unlock-infini-card-in-alipay)申请解锁，解锁后即可长期正常使用。
+
+_**限额**_
+
+Infini Card不设限额，但支付宝与微信支付目前对于境外卡的支付限额为单笔 1,000 美元，年限额 10,000 美元。
+
+_**添加卡或绑卡失败**_
+
+如果在微信/支付宝或Apple Pay 添加 Infini 卡时，提示无法添加或绑定失败。 请确认微信/支付宝或Apple Pay 实名与卡的KYC名相同（拼音一致），如果未完成KYC或者KYC信息不同/使用他人进行KYC的卡，可能会被风控，无法添加或使用。并确定在绑定时输入的卡信息无误，检查姓氏与名字，卡有效期，CVV 码等是否输入正确。
+
+如果您的微信或支付宝提示您的账户暂不支持添加国际银行卡，则此问题是由于您的微信/支付宝账户因有违规行为被风控（如可疑的转账，或违反相关法律被禁言等），这会导致您的微信/支付宝账户无法添加任何国际银行卡，请按照微信/支付宝的要求先行解除您的账户风控限制。此问题不是由 Infini 卡导致。
+
+_**微信或支付宝支付失败**_
+
+如果使用微信支付宝支付失败，首先请确认您的 Infini 账户余额大于需要支付的金额。如果反复出现，可将卡片从支付工具解除绑定，并重新绑定后再次尝试。
+
+_**海外 AliPay 与 WeChat Pay**_
+
+Infini 卡暂时不支持添加到包括香港在内的国际 AliPay 与 WeChat Pay。
+
+_**微信支付宝支付限额**_
+
+* **微信支付/支付宝对所有境外卡有支付限额，为单笔1,000美元，年10,000美元。且有可能执行动态限额，以微信支付/支付宝实际提醒为准。**
+* 目前微信/支付宝对境外卡实施动态限额，会根据交易情况动态限制支付额度，具体限额未公示，也未公布限额计算方法，如在支付时遇到超过限额提示，请过当天24点后在第二天重试支付，或降低单笔消费的数额进行支付。 微信与支付宝限额目前经测试为独立限额，但可能因政策要求等原因合并，详情请询问微信支付宝客服并以其回答为准。
+
+1. **关于支付 OpenAI ，Claude，X 等商家的订阅支付**
+
+* 请点击右侧教程，查看如何使用Infini 卡支付 X Premium（推特会员），ChatGPT 或其他 AI 工具。[教程链接。](https://infini-money.gitbook.io/infini/product/infini-card/infini-card-tutorial/how-to-subscribe-toxpremium-or-ai-tools-ru-he-zhi-fu-xpremium-huo-ai-gong-ju)
+
+1. **存款与退款**
+
+_**充值或存款到账时间**_
+
+* 用户向 Infini 账户充值时，资金会先经过我们的账户安全与反洗钱合作方 [_**Cobo**_](https://www.cobo.com/) ，通常到账时间为2-10分钟(BNB Chain)，5 分钟（Solana/TRON），20-30分钟(Ethereum/Arbitrum)。
+* 在个别情况下因 Infini 与 Cobo 之间的数据延迟，可能会导致资金到账延迟，通常在1-2个小时内会自动到账。
+* 请确保您是从我们支持的网络，存入了 USDT/USDC。而非在我们不支持的网络上存款，或存入了除 USDT/USDC 以外的资产，错误的存入可能导致资产的丢失无法找回。如果你在错误的网络存款，或存入了错误的资产，请联系 Infini 客服服务并提供你的账户邮箱地址，存入网络和完整的充值 Hash。
+* 我们注意到某些代充值服务商的充值 Hash 会以 L 开头，此类存款无法入账，Infini仅接受从支持的区块链存款或使用 Transfer 功能在 Infini 账户之间转账
+
+_**支付失败，或退款到账时间**_
+
+* 由商家退款至Infini，通常需要5-21 个工作日。在此过程中，需要对此笔退款进行结算流程，退款完成后将直接进入您的 Infini 账户余额中。
+* 在你使用 Infini 卡进行支付时，如果出现支付失败，并且你的账户被扣款，该笔资金会由商家自动退款，你将会收到退款。退款到账时间通常为 5-21 个工作日。
+* 退款到账后会显示在您的账单详情中。
+
+### **Infini Earn** <a href="#infini-earn" id="infini-earn"></a>
+
+1. **Infini Earn 的收益来源是什么？**
+
+* Infini 的收益来自于链上借贷协议合作伙伴（参考Morpho），以美元国债为基础的RWA（参考 Usual）和 Delta neutral 的稳定币协议（参考 Ethena），Infini 只选择安全性高，且声誉优秀的合作伙伴。关于收益来源可以查看我们的[相关说明](https://infini-money.gitbook.io/infini/product/infini-earn)
+* 在 Infini 存入资产后，需等待该笔资产存满24小时，开始计算收益，并在下一天的00:00 (UTC 0)，开始发放收益。
+
+1. **Infini Earn 如何做到将用户资产存储到生息协议的同时，能够让用户使用资产进行消费？**
+
+Infini会根据用户存入资金的总量，和用户的消费资金比例，设立消费预备金，用于用户消费支出，并进行自动rebalance实时调整该资金的比例，让用户可以享受资金收益的同时，也不会影响到消费。
+
+1. **关于 Infini 的安全性**
+
+* **资产和账户安全：**&#x49;nfini 的账户安全和反洗钱服务由行业领先的托管合作伙伴 Cobo 提供，符合最高行业标准，并通过 ISO 27001 认证。
+* **实时资产透明度：**&#x49;nfini 的收益策略通过经多方审计的智能合约执行，并且可以直接在区块链上进行追踪。
+* **严选合作伙伴：**&#x49;nfini 以合规驱动合作伙伴的审查流程，谨慎的选择并仅与声誉良好、开源、管理资金超过10亿美元的合作伙伴合作，以维护我们的高安全性和信任标准。Infini 准备在未来推出在中心化交易所内执行的 CeDeFi 策略，将主要在币安交易所内执行。
+* **团队与合规性：**&#x49;nfini 以实名团队的形式运作，并正在全球多地申请合规牌照。
+* **资产风险控制：**&#x4EFB;何可疑与有风险的资金提取都需要经过内部与外部的多层审核，以防止资产盗用的情况发生。
+* **审计与公示：**&#x6211;们正在与行业内领先的审计方合作，并期望在未来高频率地公布财务审计报告，以确保财务透明度。
+
+关于安全和审计报告可以查看我们的[相关说明](https://infini-money.gitbook.io/infini/product/security)。
+
+1. **Infini 是否为托管模式**
+
+是的，Infini 目前为托管模式，我们正在进行非托管模式产品的研发，并将在未来转为非托管平台。
+
+1. **Infini Earn 是否会有更多模式？**
+
+Infini Earn 会在后续上线更多种模式和风险偏好的投资组合供用户选择，为用户提供多样化的收益产品。
+
+### 其他 <a href="#qi-ta" id="qi-ta"></a>
+
+1. **关于 Infini 优惠开卡与商务合作**
+
+Infini 目前不提供折扣码，可通过以下方式获得卡激活费折扣：
+
+* 关注我们的推特与社区公告，在特定活动时按照活动规则获得优惠。
+* 经其他人邀请注册的账户，可享受一定比例的卡激活费折扣。
+*   如果您希望与 Infini 进行合作，请填写此表单，我们的 BD 工作人员会在稍后与您联系。
+
+    表单地址：[https://forms.gle/3aQYp4mLz19LgoPC6](https://forms.gle/3aQYp4mLz19LgoPC6)
+
+1. **在一个 Infini 账户中申请多张卡**
+
+可以在一个 Infini 账户中申请多张 Infini 卡，关于申请多张卡的详细规则与设置说明请查看教程：[https://t.co/sAGWUfUBM7](https://t.co/sAGWUfUBM7)
+
+1. **卡片用途**
+
+您可以在下方链接中查看 Infini 不同卡片的具体用途。
+
+[Infini Card Types and Usage](https://infini-money.gitbook.io/infini/product/infini-card/card-types-and-usage)
+
+1. **账单地址**
+
+Infini Card 无法修改账单地址，用户可以在支付时填写自己的其他地址。
+
+1. **从 Infini 取款**
+
+在 Infini 取款无需手续费，仅需支付 Gas fee，每日快速取款限额为 5000 美元，实时到账。超过 5000 美元的部分为大额提款，Infini 系统需要先进行自动 rebalance，将会在 24 小时内到账。
+
+1. **卡片激活时间**
+
+在激活Infini 卡时需要从区块链中存入卡激活费，此存入过程将根据所使用的区块链网络不同而存在差异，最长约为 30 分钟，确认存入后卡将马上自动激活。
+
+1. **验证码**
+
+如果你无法收到 Infini发送的验证码，请确认输入的邮箱地址正确，并在邮箱的垃圾邮件中查找 Infini的邮件，同时可以将 Infini的邮件标记为非垃圾邮件。
+
+1. **Infini 网站报错或无法打开**
+
+在某些网络条件不稳定的条件下，会出现 Infini 网站报错，无法打开，页面白屏等情况。此时请尝试切换网络，如果您使用了 VPN 服务请尝试关闭 VPN，或清除网页缓存后重试。
+
+1. **关于 Infini 联名卡**
+
+Infini 联名卡是 Infini 与合作伙伴推出的合作项目，提供特殊的卡面定制，通过由合作伙伴的邀请链接注册 Infini 账户，可申请带有特殊卡面的 Infini Card。未使用带有特殊卡面邀请链接注册的用户无法享有定制卡面，用户可以在 Infini 合作伙伴的社区内通过完成相应任务等方式获得邀请链接。
+
+请注意，已经激活联名卡定制卡面的用户，无法恢复为默认为默认卡面，除非删除该卡重新申请新卡。
+
+1. **支付后账单显示结算中**
+
+任何 Visa/Mastercard 在进行一笔支付后都需要在银行进行结算流程，这是一个很常见并且正常的流程，通常需要 3-5 个工作日，在次过程中该笔账单的状态为“结算中”。需要退款的交易也会在此结算流程完成后，进入退款流程。
